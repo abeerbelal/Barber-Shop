@@ -1,0 +1,630 @@
+@media (max-width: 320px) {
+ /*header*/
+ .header{
+    height: 156vh;
+}
+ .navbar .logo {
+    float: none;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.navbar .nav {
+    float: none;
+    width: 100%;
+    text-align: center;
+
+}
+.header-content {
+    padding-top: 90px;
+}
+.navbar .nav .list-item a {
+    font-size: 15px;
+}
+/*end header*/
+/* start properties*/
+.prop-member{
+    float: none;
+    width: 100%;
+}
+.prop-content .prop-member p{
+    text-align: center;
+    margin: auto;
+
+}
+.prop-content .prop-member i{
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+.prop-content .prop-member h5{
+    font-size: 25px;
+}
+.prop-content .prop-member p{
+    font-size: 20px;
+    width:90%;
+    margin-bottom: 60px;
+}
+/* end properties*/
+/* start about*/
+.about{
+    padding: 30px;
+}
+.about-content{
+    float: none; 
+    width: 100%; 
+}
+.about-content .cont1 .cont-mem{
+    float: none;
+    width: 100%;
+}
+.about-img{
+    float: none;
+    width: 100%;
+}
+.about-content h2{
+    font-size: 52px;
+    margin-bottom: 25px;
+}
+.about-content p{
+    font-size: 26.224px;
+    margin-bottom: 40px;
+    width: 90%;
+}
+.about-content .cont-mem h5{
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+.about-content .cont-mem p{
+    font-size: 25px;
+    margin-bottom: 60px;
+    width: 70%;
+}
+/* end about*/
+/* start test*/
+.test{
+    height: 155vh;
+}
+.test-content .comment{
+    font-size: 60px;
+    margin-bottom: 25px;
+}
+.test-content h3{
+    font-size: 40px;
+    margin-top: 15px;
+}
+.test-content p{
+    font-size: 29.5px;
+    width: 80%;
+    margin-bottom: 40px;
+}
+.test-content .author{
+    font-size: 26.2px;
+    margin-bottom: 6px;
+}
+.test-content .position{
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+/* end test*/
+/* start features*/
+.features-content .con-item{
+    float: none;
+    width: 100%;
+}
+.features-content h3{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.features-content p{
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+.features-content .con-item .feture-img i{
+    font-size: 38px;
+    
+}
+.features-content .con-item .feature-info h5{
+    font-size: 27px;
+    margin-bottom: 17px;
+}
+.features-content .con-item .feature-info p{
+    font-size: 24px;
+    width: 60%px;
+}
+/* end features*/
+/* start location*/
+.location{
+    padding: 40px;
+}
+.location-desc{
+    float: none; 
+    width: 100%; 
+}
+.location-map{
+    float: none;
+    width: 100%;
+}
+.location-desc h2{
+    font-size: 42px;
+    margin-bottom: 35px;
+}
+
+.location-desc p{
+    font-size: 25px;
+    width: 79%;
+    margin-bottom: 30px;
+}
+.location-desc i{
+    margin-bottom: 30px;
+    margin-right: 40px;
+    padding: 20px;
+}
+.location-desc span{
+    font-size: 20px;
+}
+/* end location*/
+/* start footer*/
+.footer .item{
+    float: none;
+    width: 100%;
+}
+.footer .item h2{
+    font-size: 27px;
+    margin-bottom: 40px;
+}
+.footer .item p{
+    width: 95%;
+    margin-bottom: 40px;
+    font-size: 24px;
+}
+.footer .item a{
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+.footer .footer-content li{
+    margin-bottom: 30px;
+    font-size: 19px;
+}
+.footer .item a:before{
+    font-size: 20px;
+}
+.footer .footer-content .item .underline{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    width: 65%;
+}
+.footer .footer-second p{
+    font-size: 16px;
+    width: 45%;
+}
+/* end footer*/
+}
+
+/*--------------------------------------------------------------------------------------------------------*/
+@media (min-width: 360px) and (max-width:576px){
+    /*header*/
+    .navbar .logo {
+        float: none;
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: center;
+    
+    }
+    
+    .navbar .nav {
+        float: none;
+        width: 100%;
+        text-align: center;
+    
+    }
+    .header-content {
+        padding-top: 90px;
+    }
+    .navbar .nav .list-item a {
+        font-size: 15px;
+    }
+    /*end header*/
+    /* start properties*/
+    .prop-member{
+        float: none;
+        width: 100%;
+    }
+    .prop-content .prop-member p{
+        text-align: center;
+        margin: auto;
+
+    }
+    .prop-content .prop-member i{
+        width: 200px;
+        height: 200px;
+        line-height: 200px;
+        text-align: center;
+        margin-top: 32px;
+        margin-bottom: 20px;
+        font-size: 50px;
+    }
+    .prop-content .prop-member h5{
+        font-size: 25px;
+    }
+    .prop-content .prop-member p{
+        font-size: 20px;
+        width:90%;
+        margin-bottom: 60px;
+    }
+    /* end properties*/
+    /* start about*/
+    .about{
+        padding: 30px;
+    }
+    .about-content{
+        float: none; 
+        width: 100%; 
+    }
+    .about-content .cont1 .cont-mem{
+        float: none;
+        width: 100%;
+    }
+    .about-img{
+        float: none;
+        width: 100%;
+    }
+    .about-content h2{
+        font-size: 52px;
+        margin-bottom: 25px;
+    }
+    .about-content p{
+        font-size: 26.224px;
+        margin-bottom: 40px;
+        width: 90%;
+    }
+    .about-content .cont-mem h5{
+        font-size: 27px;
+        margin-bottom: 20px;
+    }
+    .about-content .cont-mem p{
+        font-size: 25px;
+        margin-bottom: 60px;
+        width: 70%;
+    }
+    /* end about*/
+    /* start test*/
+    .test-content .comment{
+        font-size: 60px;
+        margin-bottom: 25px;
+    }
+    .test-content h3{
+        font-size: 40px;
+        margin-top: 15px;
+    }
+    .test-content p{
+        font-size: 29.5px;
+        width: 80%;
+        margin-bottom: 40px;
+    }
+    .test-content .author{
+        font-size: 26.2px;
+        margin-bottom: 6px;
+    }
+    .test-content .position{
+        font-size: 25px;
+        margin-bottom: 40px;
+    }
+
+    /* end test*/
+    /* start features*/
+    .features-content .con-item{
+        float: none;
+        width: 100%;
+    }
+    .features-content h3{
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+    .features-content p{
+        font-size: 24px;
+        margin-bottom: 50px;
+    }
+    .features-content .con-item .feture-img i{
+        font-size: 38px;
+        
+    }
+    .features-content .con-item .feature-info h5{
+        font-size: 27px;
+        margin-bottom: 17px;
+    }
+    .features-content .con-item .feature-info p{
+        font-size: 24px;
+        width: 60%px;
+    }
+    /* end features*/
+    /* start location*/
+    .location{
+        padding: 40px;
+    }
+    .location-desc{
+        float: none; 
+        width: 100%; 
+    }
+    .location-map{
+        float: none;
+        width: 100%;
+    }
+    .location-desc h2{
+        font-size: 42px;
+        margin-bottom: 35px;
+    }
+    
+    .location-desc p{
+        font-size: 25px;
+        width: 79%;
+        margin-bottom: 30px;
+    }
+    .location-desc i{
+        margin-bottom: 30px;
+        margin-right: 40px;
+        padding: 20px;
+    }
+    .location-desc span{
+        font-size: 20px;
+    }
+    /* end location*/
+    /* start footer*/
+    .footer .item{
+        float: none;
+        width: 100%;
+    }
+    .footer .item h2{
+        font-size: 27px;
+        margin-bottom: 40px;
+    }
+    .footer .item p{
+        width: 95%;
+        margin-bottom: 40px;
+        font-size: 24px;
+    }
+    .footer .item a{
+        margin-bottom: 30px;
+        font-size: 24px;
+    }
+    .footer .footer-content li{
+        margin-bottom: 30px;
+        font-size: 19px;
+    }
+    .footer .item a:before{
+        font-size: 20px;
+    }
+    .footer .footer-content .item .underline{
+        margin-bottom: 25px;
+        margin-top: 25px;
+        width: 65%;
+    }
+    .footer .footer-second p{
+        font-size: 16px;
+        width: 45%;
+    }
+    /* end footer*/
+}
+
+/*--------------------------------------------------------------------------------------------------------*/
+@media (min-width: 768px) and (max-width:992px){
+        /*header*/
+        .header{
+            height: 90vh;
+        }
+        .navbar .logo {
+            float: none;
+            width: 100%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            text-align: center;
+        
+        }
+        
+        .navbar .nav {
+            float: none;
+            width: 100%;
+            text-align: center;
+        
+        }
+        .header-content {
+            padding-top: 190px;
+        }
+        .navbar .nav .list-item a {
+            font-size: 25px;
+        }
+        /*end header*/
+        /* start properties*/
+        .prop-member{
+            float: none;
+            width: 100%;
+        }
+        .prop-content .prop-member p{
+            text-align: center;
+            margin: auto;
+    
+        }
+        .prop-content .prop-member i{
+            width: 200px;
+            height: 200px;
+            line-height: 200px;
+            text-align: center;
+            margin-top: 32px;
+            margin-bottom: 20px;
+            font-size: 50px;
+        }
+        .prop-content .prop-member h5{
+            font-size: 25px;
+        }
+        .prop-content .prop-member p{
+            font-size: 20px;
+            width:90%;
+            margin-bottom: 60px;
+        }
+        /* end properties*/
+        /* start about*/
+        .about{
+            padding: 30px;
+        }
+        .about-content{
+            float: none; 
+            width: 100%; 
+        }
+        .about-content .cont1 .cont-mem{
+            float: none;
+            width: 100%;
+        }
+        .about-img{
+            float: none;
+            width: 100%;
+        }
+        .about-content h2{
+            font-size: 52px;
+            margin-bottom: 25px;
+        }
+        .about-content p{
+            font-size: 26.224px;
+            margin-bottom: 40px;
+            width: 90%;
+        }
+        .about-content .cont-mem h5{
+            font-size: 27px;
+            margin-bottom: 20px;
+        }
+        .about-content .cont-mem p{
+            font-size: 25px;
+            margin-bottom: 60px;
+            width: 70%;
+        }
+        /* end about*/
+        /* start test*/
+        .test{
+            height: 72vh;
+        }
+        .test-content .comment{
+            font-size: 60px;
+            margin-bottom: 25px;
+        }
+        .test-content h3{
+            font-size: 40px;
+            margin-top: 15px;
+        }
+        .test-content p{
+            font-size: 29.5px;
+            width: 80%;
+            margin-bottom: 40px;
+        }
+        .test-content .author{
+            font-size: 26.2px;
+            margin-bottom: 6px;
+        }
+        .test-content .position{
+            font-size: 25px;
+            margin-bottom: 40px;
+        }
+    
+        /* end test*/
+        /* start features*/
+        .features-content .con-item{
+            float: none;
+            width: 100%;
+        }
+        .features-content h3{
+            font-size: 40px;
+            margin-bottom: 30px;
+        }
+        .features-content p{
+            font-size: 24px;
+            margin-bottom: 50px;
+        }
+        .features-content .con-item .feture-img i{
+            font-size: 38px;
+            
+        }
+        .features-content .con-item .feature-info h5{
+            font-size: 27px;
+            margin-bottom: 17px;
+        }
+        .features-content .con-item .feature-info p{
+            font-size: 24px;
+            width: 60%px;
+        }
+        /* end features*/
+        /* start location*/
+        .location{
+            padding: 40px;
+        }
+        .location-desc{
+            float: none; 
+            width: 100%; 
+        }
+        .location-map{
+            float: none;
+            width: 100%;
+        }
+        .location-desc h2{
+            font-size: 42px;
+            margin-bottom: 35px;
+        }
+        
+        .location-desc p{
+            font-size: 25px;
+            width: 79%;
+            margin-bottom: 30px;
+        }
+        .location-desc i{
+            margin-bottom: 30px;
+            margin-right: 40px;
+            padding: 20px;
+        }
+        .location-desc span{
+            font-size: 20px;
+        }
+        /* end location*/
+        /* start footer*/
+        .footer .item{
+            float: none;
+            width: 100%;
+        }
+        .footer .item h2{
+            font-size: 27px;
+            margin-bottom: 40px;
+        }
+        .footer .item p{
+            width: 95%;
+            margin-bottom: 40px;
+            font-size: 24px;
+        }
+        .footer .item a{
+            margin-bottom: 30px;
+            font-size: 24px;
+        }
+        .footer .footer-content li{
+            margin-bottom: 25px;
+            font-size: 19px;
+        }
+        .footer .item a:before{
+            font-size: 20px;
+        }
+        .footer .footer-content .item .underline{
+            margin-bottom: 25px;
+            margin-top: 25px;
+            width: 65%;
+        }
+        .footer .footer-second p{
+            font-size: 16px;
+            width: 45%;
+        }
+        /* end footer*/
+
+}
+
